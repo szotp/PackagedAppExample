@@ -1,0 +1,2 @@
+github "ReactiveX/RxSwift" ~> 6.1.0
+# binary "https://dl.google.com/dl/firebase/ios/carthage/FirebaseAnalyticsBinary.json"
